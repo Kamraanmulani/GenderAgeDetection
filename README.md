@@ -12,4 +12,4 @@ his project is a real-time age and gender detection application using OpenCV and
 
 - Python 3.x
 - OpenCV
-- Pre-trained models for face detection, age estimation, and gender classification
+
